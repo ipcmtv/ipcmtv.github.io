@@ -126,7 +126,7 @@ http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",四川国际
 http://61.58.60.230:9319/live/238.m3u8
 #EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川",CDTV1
-http://player.ioioz.com/17/sc/chengduflv.php?rate=hd&id=1
+http://cdn1.cditv.cn/cdtv1/CDTV1.flv?wsSecret=2e5f6fbab2fd5dd1f75e1543636a200e&wsTime=5dfdff41
 #EXTINF:-1 tvg-id="2065" tvg-name="CDTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="四川",CDTV2
 http://player.ioioz.com/17/sc/chengduflv.php?rate=hd&id=2
 #EXTINF:-1 tvg-id="2066" tvg-name="CDTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" group-title="四川",CDTV3
