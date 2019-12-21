@@ -607,3 +607,96 @@ http://39.135.36.157:18890/000000001000/6460382139625130259/1.m3u8?channel-id=ys
 http://39.135.36.147:18890/000000001000/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6516734029835465177&owchid=ystenlive&owsid=1106497909461757416&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7lpjlDkCigeV92%2fGgzDbl17YJnmK%2bNapvzR3hZbQitGUDQ%2f2RfKI5ienTpN%2bdmcS6qzJsR4R%2fYKs50I6pDfn83
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ipcmtv.github.io/taibiao/newtv.png" group-title="NewTV",NewTV炫舞未来
 http://39.135.36.157:18890/000000001000/1000000001000000515/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000000515&owchid=ystenlive&owsid=1106497909461764488&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRNwKLc81VtMnWmF2ZM43fEHzlD22rx2n%2flxPrsDq9A4qonSPaCT%2bEq8mzJT5jo5U4
+
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第1集
+http://mudan.iii-kuyunzy.com/20191127/3716_db10ff23/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第2集
+http://mudan.iii-kuyunzy.com/20191127/3713_fa0bd238/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第3集
+http://mudan.iii-kuyunzy.com/20191127/3714_26e9b399/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第4集
+http://mudan.iii-kuyunzy.com/20191127/3715_970cc162/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第5集
+http://mudan.iii-kuyunzy.com/20191127/3721_3350d9ce/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第6集
+http://mudan.iii-kuyunzy.com/20191127/3720_6699dc8a/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第7集
+http://mudan.iii-kuyunzy.com/20191128/3829_c1928f1f/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第8集
+http://mudan.iii-kuyunzy.com/20191128/3828_fa7428c8/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第9集
+http://mudan.iii-kuyunzy.com/20191202/4370_67ca1323/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第10集
+http://mudan.iii-kuyunzy.com/20191202/4369_961c796f/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第11集
+http://mudan.iii-kuyunzy.com/20191202/4371_41a153d4/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第12集
+http://mudan.iii-kuyunzy.com/20191203/4484_deb18b37/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第13集
+http://mudan.iii-kuyunzy.com/20191203/4483_9b5e55b5/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第14集
+http://mudan.iii-kuyunzy.com/20191204/4595_d8394e05/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第15集
+http://mudan.iii-kuyunzy.com/20191204/4596_e7b8197b/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第16集
+http://mudan.iii-kuyunzy.com/20191210/4979_3b27c13b/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第17集
+http://mudan.iii-kuyunzy.com/20191210/4978_18d07573/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第18集
+http://mudan.iii-kuyunzy.com/20191210/5063_1e2d7688/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第19集
+http://mudan.iii-kuyunzy.com/20191210/5062_ea9291a6/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第20集
+http://mudan.iii-kuyunzy.com/20191210/5093_0d054691/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第21集
+http://mudan.iii-kuyunzy.com/20191210/5092_52afcc25/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第22集
+http://mudan.iii-kuyunzy.com/20191211/5220_8f86caeb/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第23集
+http://mudan.iii-kuyunzy.com/20191211/5230_b4ee230d/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第24集
+http://mudan.iii-kuyunzy.com/20191211/5229_c4882daf/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第25集
+http://mudan.iii-kuyunzy.com/20191211/5228_9c79657c/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第26集
+http://mudan.iii-kuyunzy.com/20191211/5227_d93c9c01/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第27集
+http://mudan.iii-kuyunzy.com/20191211/5226_6a220632/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第28集
+http://mudan.iii-kuyunzy.com/20191216/5891_19e52eb5/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第29集
+http://mudan.iii-kuyunzy.com/20191216/5890_74e72a5c/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第30集
+http://mudan.iii-kuyunzy.com/20191216/5910_6e82af5b/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第31集
+http://mudan.iii-kuyunzy.com/20191216/5909_a8f860e9/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第32集
+http://mudan.iii-kuyunzy.com/20191217/5954_fd2fee33/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第33集
+http://mudan.iii-kuyunzy.com/20191217/5961_270bf954/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第34集
+https://cn1.kankia.com/hls/20191220/5b80956aae2ee3d6f1d8b3c08a621d8e/1576772292/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第35集
+https://cn1.kankia.com/hls/20191220/965da83a216ee4cd2c5c07c2de7106b9/1576772932/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第36集
+https://www3.kkzy-qq.com/hls/2019/12/19/m8JcE8Um/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第37集
+https://cn1.kankia.com/hls/20191220/15f859476ffa2659a22a34553c45652c/1576773629/index.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第38集
+https://www3.kkzy-qq.com/hls/2019/12/19/9qMvAZpt/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第39集
+https://www3.kkzy-qq.com/hls/2019/12/19/RwOIsGeV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第40集
+https://www3.kkzy-qq.com/hls/2019/12/20/YS33ZFSk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第41集
+https://www3.kkzy-qq.com/hls/2019/12/20/AkBmo55z/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第42集
+https://www3.kkzy-qq.com/hls/2019/12/20/yTr9YEGu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第43集
+https://www3.kkzy-qq.com/hls/2019/12/20/hN6PwTxf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第44集
+https://www3.kkzy-qq.com/hls/2019/12/19/vP0FgLD9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第45集
+https://www3.kkzy-qq.com/hls/2019/12/20/5sfknkwH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ipcmtv.github.io/taibiao/qingyunian.png" group-title="庆余年",第46集
+https://www3.kkzy-qq.com/hls/2019/12/20/6j3ijW0O/playlist.m3u8
