@@ -126,17 +126,17 @@ http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",四川国际
 http://61.58.60.230:9319/live/238.m3u8
 #EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川",CDTV1
-http://player.ioioz.com/17/sc/chengduflv.php?id=1
+http://player.ioioz.com/17/sc/chengdum3u8.php?rate=hd&id=1
 #EXTINF:-1 tvg-id="2065" tvg-name="CDTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="四川",CDTV2
-http://player.ioioz.com/17/sc/chengduflv.php?id=2
+http://player.ioioz.com/17/sc/chengduflv.php?rate=hd&id=2
 #EXTINF:-1 tvg-id="2066" tvg-name="CDTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" group-title="四川",CDTV3
-http://player.ioioz.com/17/sc/chengduflv.php?id=3
+http://player.ioioz.com/17/sc/chengdum3u8.php?rate=hd&id=3
 #EXTINF:-1 tvg-id="2067" tvg-name="CDTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png" group-title="四川",CDTV4
-http://player.ioioz.com/17/sc/chengduflv.php?id=45
+http://player.ioioz.com/17/sc/chengdum3u8.php?rate=hd&id=45
 #EXTINF:-1 tvg-id="2068" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="四川",CDTV5
-http://player.ioioz.com/17/sc/chengduflv.php?id=5
+http://player.ioioz.com/17/sc/chengdum3u8.php?rate=hd&id=5
 #EXTINF:-1 tvg-id="2069" tvg-name="CDTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="四川",CDTV6
-http://player.ioioz.com/17/sc/chengduflv.php?id=6
+http://player.ioioz.com/17/sc/chengdum3u8.php?rate=hd&id=6
 #EXTINF:-1 tvg-id="2070" tvg-name="CDTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/cdtv_meishi.png" group-title="四川",成都美食天府
 http://player.ioioz.com/17/sc/chengduflv.php?rate=hd&id=17
 #EXTINF:-1 tvg-id="2070" tvg-name="CDTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/cdtv_meishi.png" group-title="四川",成都美食旅游
