@@ -1,2 +1,3 @@
 # ipcmtv
-**https://ipcmtv.github.io/ipcmtv.m3u**
+homenet6.github.io
+家庭网络资源分享(HomeNet)群维护的IPTV PlayList 发布地址
