@@ -126,17 +126,17 @@ http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",四川国际
 http://61.58.60.230:9319/live/238.m3u8
 #EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川",CDTV1
-http://cdn1.cditv.cn/cdtv1/CDTV1.flv?wsSecret=2e5f6fbab2fd5dd1f75e1543636a200e&wsTime=5dfdff41
+http://player.ioioz.com/17/sc/chengduflv.php?id=1
 #EXTINF:-1 tvg-id="2065" tvg-name="CDTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="四川",CDTV2
-http://cdn1.cditv.cn/cdtv2/CDTV2.flv?wsSecret=b5dd85c5b07e91ace727ca3deed33fef&wsTime=5dfdff50
+http://player.ioioz.com/17/sc/chengduflv.php?id=2
 #EXTINF:-1 tvg-id="2066" tvg-name="CDTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" group-title="四川",CDTV3
-http://cdn1.cditv.cn/cdtv3/CDTV3.flv?wsSecret=92a7a9b48a496a701d02ecad4be5a819&wsTime=5dfdffd8
+http://player.ioioz.com/17/sc/chengduflv.php?id=3
 #EXTINF:-1 tvg-id="2067" tvg-name="CDTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png" group-title="四川",CDTV4
-http://cdn1.cditv.cn/cdtv4/CDTV4.flv?wsSecret=c350c88b3d46a0d53c7ddb5e8df334a9&wsTime=5dfdffeb
+http://player.ioioz.com/17/sc/chengduflv.php?id=4
 #EXTINF:-1 tvg-id="2068" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="四川",CDTV5
-http://cdn1.cditv.cn/cdtv5/CDTV5.flv?wsSecret=d54cd9f1f58dde40dedea6ceae39ffd3&wsTime=5dfe0005
+http://player.ioioz.com/17/sc/chengduflv.php?id=5
 #EXTINF:-1 tvg-id="2069" tvg-name="CDTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="四川",CDTV6
-http://cdn1.cditv.cn/cdtv6/CDTV6.flv?wsSecret=693f5c52c22a188467bfdc1296c9f7ae&wsTime=5dfe0017
+http://player.ioioz.com/17/sc/chengduflv.php?id=6
 #EXTINF:-1 tvg-id="2070" tvg-name="CDTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/cdtv_meishi.png" group-title="四川",成都美食天府
 http://player.ioioz.com/17/sc/chengduflv.php?rate=hd&id=17
 #EXTINF:-1 tvg-id="2070" tvg-name="CDTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/cdtv_meishi.png" group-title="四川",成都美食旅游
