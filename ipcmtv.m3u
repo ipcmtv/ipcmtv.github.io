@@ -7,9 +7,9 @@ http://39.135.36.150:18890/000000001000/1000000001000012442/1.m3u8?channel-id=ys
 http://39.135.36.141:18890/000000001000/1000000001000011218/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000011218&owchid=ystenlive&owsid=1106497909461779572&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRrAyJU4rR1Dadw9ISEYm5oBbA9lSzNfT0W7kMLAWHUBTbBAjpiIN0Pdi%2fTRm3zPoh
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4.jpg" group-title="央视",CCTV4
 http://39.135.36.150:18890/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000031664&owchid=ystenlive&owsid=1106497909461056460&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhSaNRr4LzI3YsXQPQcGzS6VSIZXSs858JtCAdvl%2fg%2f2u5lawXOBSX%2fqESSB5FmTXS
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://08.imgmini.eastday.com/mobile/20180320/20180320231242_3851af0e63ea857afeb75f5fcee81f5f_4.jpeg" group-title="央视",CCTV5
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5.jpg" group-title="央视",CCTV5
 http://39.135.36.146:18890/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000004794&owchid=ystenlive&owsid=1106497909461092492&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRFIaTOfcD93c7ACh3puyaR1v%2bioI39cfseenlxp5u9UfADU6BCDl7v7CTGKuGZw1d
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://www.5kgc.com/pdimage/cn-wl-cntv5.gif" group-title="央视",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5+.jpg" group-title="央视",CCTV5+
 http://39.135.36.152:18890/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000020505&owchid=ystenlive&owsid=1106497909461103025&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRkrZ1YVus93dDbxNB4SF1DDcF4ZpIL8iGHt%2bMdt2ZAOlknlq9lyy%2fQZJVqiFUxfle
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv6.jpg" group-title="央视",CCTV6
 http://39.135.36.140:18890/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000016466&owchid=ystenlive&owsid=1106497909461115566&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRPL4aTeGJNlZwIkZROfGAKEC3iG4uOUkYNIdPRliCqBi8AjSQtKTBHB8b3LPXJcIA
@@ -21,7 +21,7 @@ http://39.135.36.154:18890/000000001000/1000000001000003736/1.m3u8?channel-id=ys
 http://39.135.36.145:18890/000000001000/1000000001000014583/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000014583&owchid=ystenlive&owsid=1106497909461138654&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRh3XYVWmjehcJ6eeMnvhxAUHggQtCK8Xdm86HMC53JU75N56tG8kTzA%2fMocL0w%2bEi
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv10.jpg" group-title="央视",CCTV10
 http://39.135.36.151:18890/000000001000/7019587760656900133/1.m3u8?channel-id=ystenlive&Contentid=7019587760656900133&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=7019587760656900133&owchid=ystenlive&owsid=1106497909461152716&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5DtJGdM%2bq9fDiivHNjKl%2bK%2b9%2fvTG5xUEzd4ADPtXjiSOOAPl07bvHVEc1KInbp3p%2fXrmwsjTHZ%2fLcoxEWqnCxI
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://www.blgjad.com/upload/9c/09/cea96f2e1934f678813bcf144b92271f76f7_gif272.jpg" group-title="央视",CCTV11
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv11.jpg" group-title="央视",CCTV11
 http://39.135.36.157:18890/000000001000/1000000002000019789/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000019789&owchid=ystenlive&owsid=1106497909461158507&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhUELVtb8TDQzMSm5TScAJJF9JU4YcW5z4YHYDU6y7yn5EMhEqmI%2fAHiE6j4Y95QQ6
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv12.jpg" group-title="央视",CCTV12
 http://39.135.36.153:18890/000000001000/5325631075193490169/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=5325631075193490169&owchid=ystenlive&owsid=1106497909461165978&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7Q36zc4fu7NwQ%2fn1v2mTHqagOL8gLhzmY66HLCxgy24bGH5Xn1D6yEQdwViWmtBz15WRKuKxWsf0XH20JE0dby
@@ -53,7 +53,7 @@ http://39.135.36.157:18890/000000001000/1000000001000000831/1.m3u8?channel-id=ys
 http://39.135.36.155:18890/000000001000/1000000001000028357/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000028357&owchid=ystenlive&owsid=1106497909461262352&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaROVzE3kgfqbxbWUefjzmwWM6UWM1tPF3fcVILxO8TukKPE2BY%2fTje83gAnl%2fZNkb%2b
 #EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p55078602a1ff7.png" group-title="卫视",珠江卫视
 http://39.135.36.151:18890/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000004000011655&owchid=ystenlive&owsid=1106497909461268935&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4vNKx96%2bA3ppi2THlI0VlIDxwgnRBxQnnbWKTW8MTwvyEFUHTa6diXnUM1ACyB1BC6aNBSsOM3YI3qaHRRxYZp
-#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="卫视",南方卫视
+#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvs2.jpg" group-title="卫视",南方卫视
 http://39.135.36.155:18890/000000001000/1000000002000011619/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000011619&owchid=ystenlive&owsid=1106497909461277024&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhqSWAN1gOHXiNCpzkzcaOmsTwp2DyZ40cRRIhpnuB%2bW%2b75qTM61EOp0nB4FGyoQIk
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://39.135.36.150:18890/000000001000/1000000001000011645/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011645&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000011645&owchid=ystenlive&owsid=1106497909461286475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRi%2fGQBc72yY6Quo0JMFE7sAOH9P3BRKKjlume5S4R4Q4D5A%2fuxi3rN%2bHd%2bNxeQD8d
@@ -101,25 +101,25 @@ http://39.135.36.138:18890/000000001000/1000000002000014080/1.m3u8?channel-id=ys
 http://39.135.36.146:18890/000000001000/1000000002000029441/1.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000029441&owchid=ystenlive&owsid=1106497909461419044&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjh5I4MdhcP3Mp5W80M2R4dfnt8vf6miKZMTn2f0J2ZVbDi2MMl6qImE0%2bmFOeDvrFW
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
 http://39.135.36.141:18890/000000001000/6603041244077933770/1.m3u8?channel-id=ystenlive&Contentid=6603041244077933770&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=6603041244077933770&owchid=ystenlive&owsid=1106497909461425998&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4rU4xzu091vKo8roYmr5h0BUDfpV78hsy2ysppzSDfUZCxoKss4LitbPhVYxcC0QN4CD2KiJutsirhMo3jfYAi
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="四川",四川卫视
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/sichuantv.jpg" group-title="四川",四川卫视
 http://player.ioioz.com/17/sc/scyxm3u8.php?id=scws
-#EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="四川",四川文化旅游
+#EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv2.jpg" group-title="四川",四川文化旅游
 http://player.ioioz.com/17/sc/scyxm3u8.php?id=sctv2
-#EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv3.png" group-title="四川",四川经济
+#EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv3.jpg" group-title="四川",四川经济
 http://player.ioioz.com/17/sc/scyxm3u8.php?id=sctv3
-#EXTINF:-1 tvg-id="2056" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png" group-title="四川",四川新闻资讯
+#EXTINF:-1 tvg-id="2056" tvg-name="SCTV4" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv4.jpg" group-title="四川",四川新闻资讯
 http://player.ioioz.com/17/sc/scyxm3u8.php?id=sctv4
-#EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png" group-title="四川",四川影视文艺
+#EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv5.jpg" group-title="四川",四川影视文艺
 http://player.ioioz.com/17/sc/scyxm3u8.php?id=sctv5
-#EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" group-title="四川",四川妇女儿童
+#EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv7.jpg" group-title="四川",四川妇女儿童
 http://player.ioioz.com/17/sc/scyxm3u8.php?id=sctv7
-#EXTINF:-1 tvg-id="2061" tvg-name="SCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv9.png" group-title="四川",四川公共·乡村
+#EXTINF:-1 tvg-id="2061" tvg-name="SCTV9" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv9.jpg" group-title="四川",四川公共·乡村
 http://player.ioioz.com/17/sc/scyxm3u8.php?id=sctv9
-#EXTINF:-1 tvg-id="2062" tvg-name="SCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="四川",四川科教
+#EXTINF:-1 tvg-id="2062" tvg-name="SCTV8" tvg-logo="https://p1.ssl.qhimg.com/t016053a2134388ed0d.jpg" group-title="四川",四川科教
 http://player.ioioz.com/17/sc/scyxm3u8.php?id=sctv8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",四川峨眉电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/emeidianying.jpg" group-title="四川",四川峨眉电影
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",四川国际
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p1.ssl.qhimg.com/t014894abbfef1b5ca5.jpg" group-title="四川",四川国际
 http://61.58.60.230:9319/live/238.m3u8
 #EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川",CDTV1
 http://player.ioioz.com/17/sc/chengdum3u8.php?rate=hd&id=1
@@ -137,19 +137,19 @@ http://player.ioioz.com/17/sc/chengdum3u8.php?rate=hd&id=6
 http://player.ioioz.com/17/sc/chengduflv.php?rate=hd&id=17
 #EXTINF:-1 tvg-id="2070" tvg-name="CDTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/cdtv_meishi.png" group-title="四川",成都美食旅游
 http://player.ioioz.com/17/sc/chengduflv.php?rate=hd&id=12
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台新闻",凤凰中文
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://cdn.huodongxing.com/file/20150714/11B15F35D33FAFF2BB2A4571DC85A058AA/30712044641283594.jpg" group-title="港台新闻",凤凰中文
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台新闻",凤凰中文(备1)
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://cdn.huodongxing.com/file/20150714/11B15F35D33FAFF2BB2A4571DC85A058AA/30712044641283594.jpg" group-title="港台新闻",凤凰中文(备1)
 http://125.210.152.21:9090/live/FHZW.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台新闻",凤凰中文(备2)
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://cdn.huodongxing.com/file/20150714/11B15F35D33FAFF2BB2A4571DC85A058AA/30712044641283594.jpg" group-title="港台新闻",凤凰中文(备2)
 http://live.centerch.com/fhws.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台新闻",凤凰资讯
 http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台新闻",凤凰资讯(备)
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台新闻",港台新闻卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/hkstv.jpg" group-title="港台新闻",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-id="7239" tvg-name="香港603" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkong603.png" group-title="港台新闻",港台新闻有线电视603
+#EXTINF:-1 tvg-id="7239" tvg-name="香港603" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkong603.png" group-title="港台新闻",香港有线电视603
 http://cloud-play.hhalloy.com/live/390f07f18f550fb6e60c0c80264cdcc1.flv
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港台新闻",无线新闻
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
@@ -159,9 +159,9 @@ http://cloud-play.hhalloy.com/live/a08a123b4af3aebb4e19b82f64952c9e.flv
 http://cloud-play.hhalloy.com/live/1aab6cf57296bdefc6f4bea94702782a.flv
 #EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="港台新闻",中天新闻[HD]
 http://cloud-play.hhalloy.com/live/e1a397539e76f45bbbf39d1467024aa3.flv
-#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港台新闻",中视新闻[HD]
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/ctvnews.jpg" group-title="港台新闻",中视新闻[HD]
 http://cloud-play.hhalloy.com/live/cf4d66edc142b2f0cc8c71bca56b2268.flv
-#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港台新闻",中视[HD]
+#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://www.tvyan.com/uploads/dianshi/ctv.jpg" group-title="港台新闻",中视[HD]
 http://cloud-play.hhalloy.com/live/318e4839a23f9ff15e327de9bcb31687.flv
 #EXTINF:-1 tvg-id="7172" tvg-name="中视经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视经典.png" group-title="港台新闻",中视经典
 http://cloud-play.hhalloy.com/live/75249ac8b464466a9c41c669bd27260a.flv
