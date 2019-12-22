@@ -53,14 +53,6 @@ http://223.110.242.130:6610/gitv/live1/G_CCTV-6-CQ/1.m3u8
 http://112.50.243.7/PLTV/88888888/224/3221225805/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg" group-title="央视高清",CCTV8HD
 http://223.110.242.130:6610/gitv/live1/G_CCTV-8-CQ/1.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv9.jpg" group-title="央视高清",CCTV9HD
-http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctvjilu&videoTVChannel=cctvjilu&P2PChannelID=pd://cctv_p2p_hdcctvjilu&tai=cctvjilu&VideoName=cctvjilu&channelID=cctvjilu
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv10.jpg" group-title="央视高清",CCTV10HD
-http://183.251.61.207/PLTV/88888888/224/3221225931/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv12.jpg" group-title="央视高清",CCTV12HD
-http://183.251.61.207/PLTV/88888888/224/3221225932/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv14.jpg" group-title="央视高清",CCTV14HD
-http://183.251.61.207/PLTV/88888888/224/3221225933/index.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
 http://39.135.36.158:18890/000000001000/1000000002000019837/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000019837&owchid=ystenlive&owsid=1106497909461204271&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhsj2zH%2fW8kf2eLOhwcRnwEP0%2bGJue26Xi8vK8GznvuoMqhqMjEnqzE06kO4aZ9KPy
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
