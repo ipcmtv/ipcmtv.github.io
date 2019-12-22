@@ -54,7 +54,7 @@ http://112.50.243.7/PLTV/88888888/224/3221225805/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg" group-title="央视高清",CCTV8HD
 http://223.110.242.130:6610/gitv/live1/G_CCTV-8-CQ/1.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv9.jpg" group-title="央视高清",CCTV9HD
-http://183.251.61.207/PLTV/88888888/224/3221225929/index.m3u8
+http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctvjilu&videoTVChannel=cctvjilu&P2PChannelID=pd://cctv_p2p_hdcctvjilu&tai=cctvjilu&VideoName=cctvjilu&channelID=cctvjilu
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv10.jpg" group-title="央视高清",CCTV10HD
 http://183.251.61.207/PLTV/88888888/224/3221225931/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv12.jpg" group-title="央视高清",CCTV12HD
