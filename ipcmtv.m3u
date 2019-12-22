@@ -698,7 +698,7 @@ https://www3.kkzy-qq.com/hls/2019/12/20/5sfknkwH/playlist.m3u8
 https://www3.kkzy-qq.com/hls/2019/12/20/6j3ijW0O/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="央视高清",CCTV1HD
-http://27.36.62.162:9090/live/CCTV1HD_7000.m3u8
+http://zb.j19o.cn/sc.php?scn=cctv1hd
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv2.jpg" group-title="央视高清",CCTV2HD
 http://27.36.62.162:9090/live/CCTV2HD_7000.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv3.jpg" group-title="央视高清",CCTV3HD
